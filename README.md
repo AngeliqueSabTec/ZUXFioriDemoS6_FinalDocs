@@ -4,4 +4,7 @@ Monorepo containing multiple related projects, each in its own top-level folder.
 
 ## Projects
 
-- _(add a project folder and list it here, e.g. `ProjectA/` — description)_
+- `app.variant.adapt/`
+- `app.variantbalance/`
+- `app.variantchangereq/`
+- `freestyle/`
